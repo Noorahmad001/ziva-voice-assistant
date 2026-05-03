@@ -249,4 +249,4 @@ MIT License. Free to use, modify, and distribute.
 
 Your Name
 GitHub: https://github.com/YOUR_USERNAME
-LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+LinkedIn: www.linkedin.com/in/noor-ahmad-qureshi-9078a1404
