@@ -248,5 +248,5 @@ MIT License. Free to use, modify, and distribute.
 ## Author
 
 Your Name
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Noorahmad001
 LinkedIn: www.linkedin.com/in/noor-ahmad-qureshi-9078a1404
