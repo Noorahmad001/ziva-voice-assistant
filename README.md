@@ -81,7 +81,7 @@ ZivaAssistant/
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/Noorahmad001/ZivaAssistant.git
+git clone https://github.com/Noorahmad001/ziva-voice-assistant.git
 cd ZivaAssistant
 ```
 
