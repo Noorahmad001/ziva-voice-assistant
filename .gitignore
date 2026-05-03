@@ -1,0 +1,32 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Sensitive data — DO NOT commit user data
+# (Remove the next line if you want to commit your username)
+# user_data.json 
+node_modules/
